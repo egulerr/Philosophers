@@ -47,6 +47,8 @@ Usage
 Example
 
 ```sh
-./philo 4 800 200 200
+./philo 5 800 200 200
 ```
-
+<div align="center">
+  <img height=800px width=700px src="https://github.com/egulerr/Philosophers/blob/main/philosophers_readme_img.png"/>
+</div>
